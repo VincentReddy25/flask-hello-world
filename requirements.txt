@@ -1,1 +1,8 @@
 Flask==3.0.0
+pandas
+scikit-learn
+vaex
+toolz
+seaborn
+gmaps
+twilio
